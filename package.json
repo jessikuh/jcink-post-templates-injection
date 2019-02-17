@@ -1,0 +1,25 @@
+{
+  "name": "jcink-post-templates-injection",
+  "version": "1.0.0",
+  "description": "Insert post templates into specific forums or topics to prevent users from having to copy/paste site specific templates.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessica Stamos",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-cli": "^2.0.1",
+    "uglify-save-license": "^0.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-destructuring": "^7.3.2",
+    "@babel/preset-env": "^7.2.3",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-uglify": "^3.0.1"
+  }
+}
