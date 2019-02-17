@@ -114,7 +114,7 @@ The HTML rules from the forums/sub-forums section applies here as well. As of ve
 
 ## Example
 
-This example is based off the ['Use Case'](#use-case) scenario.
+This example is based off the ['Use Case'](#use-case) scenario. Use [this code](https://raw.githubusercontent.com/jessikuh/jcink-post-templates-injection/master/src/js/post-templates-injection.min.js) in place of 'CODE FROM post-templates-injection.min.js GOES HERE'.
 
 ```html
 <script>
